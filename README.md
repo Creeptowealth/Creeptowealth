@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Creeptowealth
 - 👀 I’m interested in Web 3.0, crypto techs, Solidity, Java, JavaScript, Python, Data Science.
-- 🌱 I’m currently learning about Web 3.0, crypto techs.
-- 💞️ I’m looking to collaborate on anything usefull for thing mentioned above.
+- 🌱 I’m currently learning about Web 3.0, JavaScript, crypto techs.
+- 💞️ I’m looking to collaborate on anything usefull for things mentioned above.
 - 📫 How to reach me: DM me.
 
 <!---
